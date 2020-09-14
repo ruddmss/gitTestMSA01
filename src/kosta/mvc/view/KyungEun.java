@@ -2,6 +2,6 @@ package kosta.mvc.view;
 
 public class KyungEun {
 	public void test() {
-		System.out.println("경으니");
+		System.out.println("경으니!!!!!!!!!!!!!!!!!!!");
 	}
 }
